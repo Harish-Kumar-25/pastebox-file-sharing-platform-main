@@ -5,8 +5,7 @@
 [![Tech](https://img.shields.io/badge/stack-MERN-blueviolet)]()
 
 **PasteBox** is a modern file-sharing and storage platform that lets users instantly upload files and generate short, shareable download links or QR codes. With a clean UI, lightning-fast uploads (via AWS), and optional user authentication, PasteBox is designed for both casual and power users.
-
-Live Demo (Coming Soon) | Powered by MERN + AWS
+ Powered by MERN + AWS
 
 ---
 
@@ -111,7 +110,6 @@ Live Demo (Coming Soon) | Powered by MERN + AWS
 ### 🧑‍💻 1. Clone the repository
 
 ```bash
-git clone https://github.com/PrinceInScripts/Share-Pod-File-Sharing-Application
 
 cd client
 npm install
